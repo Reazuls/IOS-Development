@@ -4,4 +4,4 @@ Ans : </b>iOS (originally iPhone OS) is a mobile operating system created and de
 
 <b>resources : </b>
   1. <a href="https://www.appcoda.com/ios-programming-course/" target="_blank">Learn IOS Programming</a>
-  2. <a href="https://www.youtube.com/watch?v=0TytqKHOZA4&list=PLoCgxF8_6uf2qi87xG4t9HJbEIKmLEmx_" target="_blank">Bangla Video abou IOS apps Development</a>
+  2. <a href="https://www.youtube.com/watch?v=0TytqKHOZA4&list=PLoCgxF8_6uf2qi87xG4t9HJbEIKmLEmx_" target="_blank">Bangla Video about IOS apps Development</a>
